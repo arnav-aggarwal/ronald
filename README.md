@@ -1,3 +1,3 @@
 # ronald
 
-![ronald](https://github.com/arnav-aggarwal/ronald/pics/ronald-1.jpg)
+![ronald](https://github.com/arnav-aggarwal/ronald/blob/master/pics/ronald-1.jpg)
